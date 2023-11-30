@@ -8,13 +8,21 @@ Sin cambios
 Sin cambios
 
 ## Tarea 3 Listas
+Sin cambios
 
 ## Tarea 4 Listas Doblemente Ligadas
+Sin cambios
 
 ## Tarea 5 Arbol Binario
+Sin cambios
 
 ## Tarea 6 Heap
+Sin cambios
 
-## Tarea 1 Slapy
+## Tarea 7 Slapy
 
-## Tarea 1 Cuadratic 
+## Tarea 8 Grafos
+No entrego 
+
+## Tarea 9 Quadratic
+Sin cambios
