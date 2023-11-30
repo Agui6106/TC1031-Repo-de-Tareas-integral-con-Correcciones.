@@ -20,6 +20,12 @@ Sin cambios
 Sin cambios
 
 ## Tarea 7 Slapy
+### Cambio de cosntrcutores
+```
+
+
+
+```
 
 ## Tarea 8 Grafos
 No entrego 
