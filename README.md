@@ -21,11 +21,7 @@ Sin cambios
 
 ## Tarea 7 Slapy
 ### Cambio de cosntrcutores
-```
-
-
-
-```
+Se cambio la implentacion compleat del spaly puesto que mi implmentacuion inciial no pasaba varios test del amin
 
 ## Tarea 8 Grafos
 No entrego 
